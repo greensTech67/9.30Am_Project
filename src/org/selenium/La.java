@@ -44,6 +44,14 @@ public class La {
 		WebElement btn = driver.findElement(By.xpath("//label[@id='loginbutton']"));
 		btn.click();
 		
+		System.out.println("paru");
+		System.out.println("paru");
+		System.out.println("paru");
+		System.out.println("paru");
+		System.out.println("paru");
+		System.out.println("paru");
+		
+		
 
 	
 
