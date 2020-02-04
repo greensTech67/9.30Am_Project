@@ -11,7 +11,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.interactions.Actions;
+
 
 public class Launch {
 
@@ -62,6 +62,8 @@ public class Launch {
 		
 		//To Perform in second Window
 		driver.findElement(By.id("add-to-cart-button")).click();
+		
+		System.out.println("charanreddy");
 
 	}
 
