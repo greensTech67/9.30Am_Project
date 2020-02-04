@@ -38,6 +38,9 @@ public class Launch {
 		r.keyRelease(KeyEvent.VK_ENTER);
 
 		WebElement phone = driver.findElement(By.xpath("//span[text()='Apple iPhone 6s (32GB) - Space Grey']"));
+		WebElement phone = driver.findElement(By.xpath("//span[text()='Apple iPhone 6s (32GB) - Space Grey']"));
+		WebElement phone = driver.findElement(By.xpath("//span[text()='Apple iPhone 6s (32GB) - Space Grey']"));
+		WebElement phone = driver.findElement(By.xpath("//span[text()='Apple iPhone 6s (32GB) - Space Grey']"));
 
 		phone.click();
 		// To Get Current Window Id
