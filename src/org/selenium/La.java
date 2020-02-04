@@ -27,25 +27,29 @@ public class La {
 		// To Get the Title
 		String title = driver.getTitle();
 		System.out.println(title);
-		
-		//To find the locator
-		
+
+		// To find the locator
+
 		WebElement mail = driver.findElement(By.xpath("//input[@type='email']"));
-		//To insert the values 
+		// To insert the values
 		mail.sendKeys("saranya12");
-		
-		//To fill the password
-		
+
+		// To fill the password
+
 		WebElement pwd = driver.findElement(By.xpath("(//input[@type='password'])[1]"));
 		pwd.sendKeys("56789");
-		
-		//Button
-		
+
+		// Button
+
 		WebElement btn = driver.findElement(By.xpath("//label[@id='loginbutton']"));
 		btn.click();
-		
 
-	
+		System.out.println("Raseem");
+		System.out.println("Raseem");
+		System.out.println("Raseem");
+		System.out.println("Raseem");
+		System.out.println("Raseem");
+		System.out.println("Raseem");
 
 	}
 
