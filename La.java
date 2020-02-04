@@ -44,12 +44,12 @@ public class La {
 		WebElement btn = driver.findElement(By.xpath("//label[@id='loginbutton']"));
 		btn.click();
 
-		System.out.println("Raseem");
-		System.out.println("Raseem");
-		System.out.println("Raseem");
-		System.out.println("Raseem");
-		System.out.println("Raseem");
-		System.out.println("Raseem");
+		System.out.println("Priya");
+		System.out.println("Premsaai");
+		System.out.println("Madhansai");
+		System.out.println("Balaji");
+		System.out.println("saai");
+	
 
 	}
 
