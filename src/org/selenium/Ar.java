@@ -18,5 +18,9 @@ public class Ar {
 		 
 
 	}
+		System.out.println("Janani");
+		System.out.println("Anu");
+		System.out.println("Bharathi");
+	}
 
 }
