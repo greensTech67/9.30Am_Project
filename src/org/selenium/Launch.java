@@ -62,6 +62,11 @@ public class Launch {
 		
 		//To Perform in second Window
 		driver.findElement(By.id("add-to-cart-button")).click();
+		System.out.println("Conflict");
+		System.out.println("Conflict");
+		System.out.println("Conflict");
+		System.out.println("Conflict");
+		System.out.println("Conflict");
 
 	}
 
